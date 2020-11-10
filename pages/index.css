@@ -1,1 +1,15 @@
-@import url(../vendor/normalize.css);
+@import url('../vendor/normalize.css');
+@import url('../blocks/page/page.css');
+@import url('../blocks/banners/banners.css');
+@import url('../blocks/banners/__grid/banners__grid.css');
+
+@import url('../blocks/banners/__item1/banners__item1.css');
+@import url('../blocks/banners/__item2/banners__item2.css');
+@import url('../blocks/banners/__item3/banners__item3.css');
+@import url('../blocks/banners/__item4/banners__item4.css');
+@import url('../blocks/banners/__item5/banners__item5.css');
+@import url('../blocks/banners/__item6/banners__item6.css');
+@import url('../blocks/banners/__item7/banners__item7.css');
+@import url('../blocks/banners/__item8/banners__item8.css');
+
+@import url('../blocks/banners/__item1-link/banners__item1-link.css');
