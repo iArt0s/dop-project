@@ -1,0 +1,6 @@
+.banners__item1 {
+    grid-area: item1;
+    width: 312px;
+    height: 350px;
+    position: relative;
+}
